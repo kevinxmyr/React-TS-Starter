@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 
-# with GSAP, Tailwind installed
+# with GSAP, React-Router-DOM & Tailwind installed
+
+Dashboard and Home Page is router only. you can modify it.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -12,10 +12,3 @@ function App() {
 }
 
 export default App;
-// echo "# React-TS-Starter" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/kevinxmyr/React-TS-Starter.git
-// git push -u origin main
